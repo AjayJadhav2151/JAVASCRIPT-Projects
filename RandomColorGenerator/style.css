@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
-html{
+body{
     background-image: linear-gradient(to right,#4be817, #0b4ebe);
 }
 section{
@@ -29,12 +29,16 @@ button{
     -o-border-radius: 7px;
     border: none;
     font-size: 14px;
+    background-color: #2c2c2c;
+    color: wheat;
 }
 
 h2{
     margin: 10px;
     padding: 10px;
     text-transform: capitalize;
+    color: #060606 ;
+    font-style: italic;
 }
 
 /* .colorcode{
@@ -58,5 +62,6 @@ h2{
     text-align: left;
     font-size: 14px;
     line-height: 1.5;
-    background-color: white;
+    background-color: #1F3A5F ;
+    color: #cee8ff;
 }
