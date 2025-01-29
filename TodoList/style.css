@@ -26,7 +26,7 @@ body{
     font-family: sans-serif;
     line-height: 1.6;
     }
-    .btn{
+    button{
     background-color: green ;
     /* height: 5rem; */
     padding: 7px 15px;
@@ -68,7 +68,7 @@ body{
     }
 
     .main_todo_div{
-        width: 36rem;
+        width: 26rem;
         display: grid;
         grid-template-columns: 1fr 0.3fr;
         align-items: center;
